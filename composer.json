@@ -1,0 +1,19 @@
+{
+    "name": "blessingsocialiteproviders/littleskin",
+    "description": "LittleSkin OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "Asnxthaony",
+        "email": "asnxthaony@outlook.com"
+    }],
+    "require": {
+        "php": "^7.0",
+        "ext-json": "*",
+        "socialiteproviders/manager": "~2.0 || ~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BlessingSocialiteProviders\\LittleSkin\\": ""
+        }
+    }
+}
