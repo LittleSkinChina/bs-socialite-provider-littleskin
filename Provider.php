@@ -1,6 +1,6 @@
 <?php
 
-namespace BlessingSocialiteProviders\LittleSkin;
+namespace LittleSkinChina\BsSocialiteProviderLittleSkin;
 
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;
 use SocialiteProviders\Manager\OAuth2\User;

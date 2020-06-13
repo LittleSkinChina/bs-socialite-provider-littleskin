@@ -1,6 +1,6 @@
 <?php
 
-namespace BlessingSocialiteProviders\LittleSkin;
+namespace LittleSkinChina\BsSocialiteProviderLittleSkin;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 

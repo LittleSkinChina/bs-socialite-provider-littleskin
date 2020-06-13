@@ -1,5 +1,5 @@
 {
-    "name": "blessingsocialiteproviders/littleskin",
+    "name": "littleskinchina/bs-socialite-provider-littleskin",
     "description": "LittleSkin OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BlessingSocialiteProviders\\LittleSkin\\": ""
+            "LittleSkinChina\\BsSocialiteProviderLittleSkin\\": ""
         }
     }
 }
